@@ -1,8 +1,0 @@
-<div class="card">
-  <img src="image.jpg" alt="Image" class="card-image">
-  <div class="card-content">
-    <h3 class="card-title">제목</h3>
-    <p class="card-description">내용 요약</p>
-    <a href="#" class="card-button">자세히 보기</a>
-  </div>
-</div>
